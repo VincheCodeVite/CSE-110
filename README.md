@@ -1,1 +1,1 @@
-# CSE-110
+Vincent Arnaudin Users Guide
